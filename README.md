@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <!--
 **yoderickmejia/yoderickmejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
