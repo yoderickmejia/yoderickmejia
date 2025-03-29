@@ -8,10 +8,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## GitHub Thropies 🏆 :
 
@@ -23,14 +19,6 @@
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Aneal07&icon=2&color=4)](https://visitcount.itsvg.in)
 
-------
 
-Credit: [Aneal07](https://github.com/Aneal07)
-
-Last Edited on: 18/11/2023
